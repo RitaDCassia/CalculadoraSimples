@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExercicioCalculadoraSimples</string>
+    <string name="Info">Informe dois numeros para realizar as operações</string>
+</resources>
